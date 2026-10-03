@@ -1,1 +1,1 @@
-#* Hardcoded Portfolio*
+* Hardcoded Portfolio*
